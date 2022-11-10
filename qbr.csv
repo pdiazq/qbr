@@ -1,0 +1,7 @@
+host,uptime,module,type,failure
+ipdsl-mex-lago-4,"3m, 1w, 5d",0_0_CPU0,A9K-MOD80-SE,0/0/CPU0 BRINGDOWN 
+ipdsl-gto-pedromoreno-46,"1m, 2w, 4d",0_0_CPU0,A9K-MOD80-SE,0/0/CPU0 ERRORS
+vpn-mex-ctsj-77,"2m, 2w, 2d",0_3_CPU0,A9K-MOD80-SE,0/3/CPU0 ERRORS
+ipdsl-coa-ayuntamiento-23,"1m, 2w, 1d",0_5_CPU0,A9K-VSM-500,CGNAT DOWN
+ipdsl-nvl-mayo-89,"2m, 1w, 0d",0_3_CPU0,A9K-MOD160-SE,PARITY ERROR
+vpn-qro-triara-53,"3m, 0w, 4d",0/0/CPU0,A9K-24X10GE-1G-SE,PARITY ERROR
